@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Foneofus.net%2Fwp-content%2Fuploads%2F2015%2F12%2FGollum-LOTR-Characters1-300x266.jpg&f=1",
+    "name": "Gollum"
+  },
+  {
+    "id": 2,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fsamebutinenglish.files.wordpress.com%2F2011%2F09%2Fgimli.jpg&f=1",
+    "name": "Gimli"
+  },
+  {
+    "id": 3,
+    "image":"https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages4.fanpop.com%2Fimage%2Fpolls%2F735000%2F735566_1307081429454_full.jpg&f=1",
+    "name": "Haldir"
+  },
+  {
+    "id": 4,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.giantbomb.com%2Fuploads%2Fscale_small%2F0%2F7580%2F326694-legolas_golden_light.jpg&f=1",
+    "name": "Legolas"
+  },
+  {
+    "id": 5,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cosplayisland.co.uk%2Ffiles%2Fcostumes%2F1628%2F46130%2Faragorn2.jpg&f=1",
+    "name": "Aragorn"
+  },
+  {
+    "id": 6,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_WvJ8Bcw1ZPc%2FTTqK9h8jz0I%2FAAAAAAAAAAw%2FZMFKfE34BfA%2Fs1600%2FFaramir.jpg&f=1",
+    "name": "Faramir"
+  },
+  {
+    "id": 7,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fi.dailymail.co.uk%2Fi%2Fpix%2F2011%2F12%2F21%2Farticle-0-0F3DAA7100000578-519_634x417.jpg&f=1",
+    "name": "Gandalf"
+  },
+  {
+    "id": 8,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages2.fanpop.com%2Fimage%2Fphotos%2F9500000%2FEomer-of-Rohan-eomer-9557785-400-624.jpg&f=1",
+    "name": "Eomer"
+  },
+  {
+    "id": 9,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F_-r3gqf6Std8%2FTEyIaAWhTqI%2FAAAAAAAAAQQ%2FkEiXt7UJ0gM%2Fs1600%2Felijah_as_frodo.jpg&f=1",
+    "name": "Frodo"
+  },
+  {
+    "id": 10,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F_lDrpPQWIjSQ%2FS7z2RnCVh5I%2FAAAAAAAAAJ8%2FOUiyRdpkbpY%2Fs1600%2FSam_RotK_8.jpg&f=1",
+    "name": "Sam"
+  },
+  {
+    "id": 11,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.councilofelrond.com%2Fmodules%2FMy_eGallery%2Fgallery%2Fcharacters%2Fmerry%2Fca_merry005.jpg&f=1",
+    "name": "Merry"
+  },
+  {
+    "id": 12,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.basicallybillyboyd.com%2Fwp-content%2Fuploads%2F2013%2F05%2Fbillyboyd_SM.jpg&f=1",
+    "name": "Pippin"
+  },
+  {
+    "id": 13,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-hOGT1X5ljBg%2FT6iSr-SIZrI%2FAAAAAAAAA2w%2FPEnEel8wres%2Fs1600%2Feowyn-fighting.jpg&f=1",
+    "name": "Eowyn"
+  },
+  {
+    "id": 14,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Felvenesse.net%2Fblog%2Fwp-content%2Fuploads%2F2012%2F07%2FTheodenKing2.jpg&f=1",
+    "name": "Theoden"
+  },
+  {
+    "id": 15,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia-cache-ec0.pinimg.com%2F736x%2Fb1%2F24%2F33%2Fb1243320ea375505ec48f6145f1301fd.jpg&f=1",
+    "name": "Boromir"
+  },
+  {
+    "id": 16,
+    "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.themarysue.com%2Fwp-content%2Fuploads%2F2015%2F03%2FGaladriel_-_ROTK.png&f=1",
+    "name": "Galadriel"
+  }
+]
